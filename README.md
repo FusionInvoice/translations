@@ -7,7 +7,7 @@ How to use
 ----------
 
 1. [Download](https://github.com/FusionInvoice/translations/archive/master.zip) the latest translations package
-2. Unzip the translations folder you need
+2. Unzip the translation(s) folder(s) you need
 3. Upload them to your FusionInvoice project in the `/resources/lang` folder
 
 Contributing
