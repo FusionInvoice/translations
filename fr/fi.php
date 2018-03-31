@@ -606,6 +606,6 @@ return [
     'if_quote_is_emailed_while_draft'         => 'Si un devis est envoyée avec le statut "Brouillon" ',
 
     // 2018-4
-    'force_https'                             => 'Forcer le HTTPS',
+    'force_https'                             => 'Forcer le HTTPS ',
     'force_https_help'                        => 'Avant d\'activer cette option, assurez-vous que votre installation de FusionInvoice est fonctionnelle via HTTPS. Le cas échéant, FusionInvoice pourrait ne plus fonctionner.',
 ];
