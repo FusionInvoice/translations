@@ -13,7 +13,7 @@ return [
     'add_item'                                => 'Ajouter une ligne',
     'add_line_item_to_invoice'                => 'Ajouter une ligne à la facture',
     'add_note'                                => 'Ajouter une note',
-    'additional'                              => 'Additionel',
+    'additional'                              => 'Additionnel',
     'addon'                                   => 'Extension',
     'addons'                                  => 'Extensions',
     'address'                                 => 'Adresse postale ',
