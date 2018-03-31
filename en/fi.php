@@ -604,4 +604,8 @@ return [
     'keep_quote_date_as_is'                   => 'Keep Quote Date As Is',
     'if_invoice_is_emailed_while_draft'       => 'If Invoice Is Emailed While in Draft Status',
     'if_quote_is_emailed_while_draft'         => 'If Quote Is Emailed While in Draft Status',
+
+    // 2018-4
+    'force_https'                             => 'Force HTTPS',
+    'force_https_help'                        => 'Prior to enabling this option, be sure your FusionInvoice installation is functional via https. Failure to do so may result in a non-functional (but fixable) installation.',
 ];
