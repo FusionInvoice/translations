@@ -429,7 +429,7 @@ return [
     'tax_rates'                               => 'BTW-tarieven',
     'tax_summary'                             => 'Tax Summary',
     'taxable_amount'                          => 'Taxable Amount',
-    'taxes'                                   => 'Taxes',
+    'taxes'                                   => 'BTW',
     'template'                                => 'Template',
     'terms_and_conditions'                    => 'Algemene Voorwaarden',
     'test_mode'                               => 'Testmodus',
