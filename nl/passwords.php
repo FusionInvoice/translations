@@ -13,10 +13,10 @@ return [
     |
     */
 
-    'password' 	=> 'Passwords must be at least six characters and match the confirmation. Wachtwoorden moeten tenminste zes karakters bevatten.',
-    'reset' 	=> 'Uw wachtwoord is gereset!',
-    'sent' 		=> 'We hebben uw wachtwoord resetlink gestuurd naar het bekende emailadres!',
-    'token' 	=> 'Dit wachtwoord resettoken is niet geldig.',
-    'user' 		=> 'We kunnen geen gebruiker vinden met dit e-mailadres.',
+    'password' => 'Passwords must be at least six characters and match the confirmation. Wachtwoorden moeten tenminste zes karakters bevatten.',
+    'reset'    => 'Uw wachtwoord is gereset!',
+    'sent'     => 'We hebben uw wachtwoord resetlink gestuurd naar het bekende emailadres!',
+    'token'    => 'Dit wachtwoord resettoken is niet geldig.',
+    'user'     => 'We kunnen geen gebruiker vinden met dit e-mailadres.',
 
 ];

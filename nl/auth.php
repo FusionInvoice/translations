@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed'    => 'Deze inlogegevens komen niet overeen met onze gegevens.',
-    'throttle'  => 'Er zijn teveel inlogpogingen gedecteerd. Probeer het over :seconds seconde nog eens.',
+    'failed'   => 'Deze inlogegevens komen niet overeen met onze gegevens.',
+    'throttle' => 'Er zijn teveel inlogpogingen gedecteerd. Probeer het over :seconds seconde nog eens.',
 
 ];
