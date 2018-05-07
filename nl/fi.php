@@ -1,15 +1,5 @@
 <?php
 
-/**
- * This file is part of FusionInvoice.
- *
- * (c) FusionInvoice, LLC <jessedterry@gmail.com>
- *
- * Dutch Translation
- * Translation by Koen Veelenturf
- *
- */
-
 return [
     'a4'                                      => 'A4',
     'account_setup'                           => 'Gebruikersinstellingen',
